@@ -1,0 +1,5 @@
+{
+  "SeqQC.trimgalore.r1fastq": "./sample_data/AR0052_3_R1.fq",
+  "SeqQC.trimgalore.r2fastq": "./sample_data/AR0052_3_R2.fq",
+  "SeqQC.trimgalore.sample_name": "AR0052_3"
+}
